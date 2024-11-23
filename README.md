@@ -2,6 +2,10 @@
 
 A minimal Spotify web player interface built with **HTML** and **CSS**. This project replicates Spotify's core design elements and provides a basic structure for further enhancements.
 
+Here is the link to the deployed version of the game:  
+[Spotify Clone - GitHub Pages](https://mithun-am.github.io/Spotify-Clone/)
+
+
 ## Features
 
 - **Navigation Bar**:
@@ -22,6 +26,16 @@ A minimal Spotify web player interface built with **HTML** and **CSS**. This pro
 - **CSS**: Styling and layout.
 - **Font Awesome**: For icons in navigation, controls, and buttons.
 - **Google Fonts**: Typography (Montserrat font).
+
+## How to Run the Project
+
+To view the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mithun-AM/Amazon-clone.git
+
+2. Open the index.html file in any modern web browser.
 
 ## Folder Structure
 
