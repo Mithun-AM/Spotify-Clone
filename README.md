@@ -2,7 +2,7 @@
 
 A minimal Spotify web player interface built with **HTML** and **CSS**. This project replicates Spotify's core design elements and provides a basic structure for further enhancements.
 
-Here is the link to the deployed version of the game:  
+Here is the link to the deployed version of the clone:  
 [Spotify Clone - GitHub Pages](https://mithun-am.github.io/Spotify-Clone/)
 
 
